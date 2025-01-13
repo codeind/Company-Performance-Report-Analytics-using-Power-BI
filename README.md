@@ -3,6 +3,8 @@
 As part of my data visualization and business intelligence journey, I developed an interactive **Performance Analysis Dashboard** using **Power BI** to track key performance metrics for a company. This project aimed to create a comprehensive tool for business stakeholders to make data-driven decisions by visualizing and comparing various performance indicators such as **gross profit**, **sales**, **quantity**, and **account profitability**, segmented by **time**, **region**, and **other business dimensions**.
 
 ---
+![Analytic Dashboard](https://github.com/user-attachments/assets/d2640bed-323b-450e-82e8-ad73650d92f9)
+---
 
 ### **Key Highlights of the Project:**
 
@@ -70,4 +72,3 @@ As part of my data visualization and business intelligence journey, I developed 
   The interactive nature of the dashboard encouraged stakeholders to engage more with the data and make decisions based on a comprehensive view of company performance.
 
 ---
-![Analytic Dashboard](https://github.com/user-attachments/assets/d2640bed-323b-450e-82e8-ad73650d92f9)
